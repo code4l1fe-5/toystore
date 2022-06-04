@@ -1,0 +1,26 @@
+{
+  "name": "cloud-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code4l1fe-5/toystore.git"
+  },
+  "author": "khoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code4l1fe-5/toystore/issues"
+  },
+  "homepage": "https://github.com/code4l1fe-5/toystore#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
